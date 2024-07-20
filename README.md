@@ -43,4 +43,4 @@ The hard mode offered by the mod not only challenges the survival struggle but a
 ### Footnote;
 
 1. Play on difficulty mode minimum 4 (Survivalist).
-2. Recommend Play Map: (New York Undead One)[https://7daystodiemods.com/map-new-york-undead-one/]
+2. Recommend Play Map: (https://7daystodiemods.com/map-new-york-undead-one/)[New York Undead One]
